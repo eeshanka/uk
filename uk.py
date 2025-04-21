@@ -1,3 +1,9 @@
+to run python file..
+
+python3 flename.py
+
+enter
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 2. WAP for Water jug problem using state space formation.
